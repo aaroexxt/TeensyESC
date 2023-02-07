@@ -1,4 +1,4 @@
-# MotorControl
+# TeensyESC
  Custom brushless motor controller based around the Teensy 4.1 and TMC6200 gate driver chip.
  Designed for EC.S02, an IAP PCB Design Class at MIT, with Altium Designer
 
