@@ -1,4 +1,6 @@
 Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_EXTIO|SchDesignator=U_EXTIO|FileName=EXTIO.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=EXTIO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Gating|SchDesignator=U_Gating|FileName=Gating.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Gating.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_HVin|SchDesignator=U_HVin|FileName=HVin.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=HVin.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_MCUCustom|SchDesignator=U_MCUCustom|FileName=MCUCustom.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=MCUCustom.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_USBIO|SchDesignator=U_USBIO|FileName=USBIO.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=USBIO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Gating.SchDoc|SheetNumber=4
